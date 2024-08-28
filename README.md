@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anh0github&show_icons=true&locale=en" alt="anh0github" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anh0github&show_icons=true&locale=en&layout=compact" alt="anh0github" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0github&layout=pie)](https://github.com/anh0github/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anh0github&" alt="anh0github" /></p>
