@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/profile/anhntb0055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anhntb0055" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anh0github&show_icons=true&locale=en" alt="anh0github" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anh0github)](https://github.com/anh0github/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0github&layout=pie)](https://github.com/anh0github/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anh0github&" alt="anh0github" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anh0github&theme=default)](https://git.io/streak-stats)
+
